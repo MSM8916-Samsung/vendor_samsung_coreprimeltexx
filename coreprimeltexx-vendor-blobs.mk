@@ -188,6 +188,5 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/coreprimeltexx/etc/firmware/Signedrompatch_v21.bin:system/etc/firmware/Signedrompatch_v21.bin \
     vendor/samsung/coreprimeltexx/etc/firmware/Signedrompatch_v20.bin:system/etc/firmware/Signedrompatch_v20.bin \
     vendor/samsung/coreprimeltexx/bin/time_daemon:system/bin/time_daemon \
-    vendor/samsung/coreprimeltexx/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
     vendor/samsung/coreprimeltexx/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
     vendor/samsung/coreprimeltexx/lib/libcommon_time_client.so:system/lib/libcommon_time_client.so
