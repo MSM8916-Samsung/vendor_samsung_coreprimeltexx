@@ -92,6 +92,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/coreprimeltexx/lib/libaec_algo_front.so:system/lib/libaec_algo_front.so \
     vendor/samsung/coreprimeltexx/lib/libaec_algo_rear.so:system/lib/libaec_algo_rear.so \
     vendor/samsung/coreprimeltexx/lib/libaf_algo_rear.so:system/lib/libaf_algo_rear.so \
+    vendor/samsung/coreprimeltexx/lib/libawb_algo_front.so:system/lib/libawb_algo_front.so \
     vendor/samsung/coreprimeltexx/lib/libawb_algo_rear_al.so:system/lib/libawb_algo_rear_al.so \
     vendor/samsung/coreprimeltexx/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
     vendor/samsung/coreprimeltexx/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
@@ -115,6 +116,13 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/coreprimeltexx/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
     vendor/samsung/coreprimeltexx/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/samsung/coreprimeltexx/lib/libloc_core.so:system/lib/libloc_core.so \
+    vendor/samsung/coreprimeltexx/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
+    vendor/samsung/coreprimeltexx/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
+    vendor/samsung/coreprimeltexx/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
+    vendor/samsung/coreprimeltexx/vendor/lib/egl/libGLESv2_adreno.so:system/vendor/lib/egl/libGLESv2_adreno.so \
+    vendor/samsung/coreprimeltexx/vendor/lib/egl/libq3dtools_adreno.so:system/vendor/lib/egl/libq3dtools_adreno.so \
+    vendor/samsung/coreprimeltexx/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
+    vendor/samsung/coreprimeltexx/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
     vendor/samsung/coreprimeltexx/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
     vendor/samsung/coreprimeltexx/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
     vendor/samsung/coreprimeltexx/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
